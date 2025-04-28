@@ -20,4 +20,7 @@ It is part of a broader research effort to understand portfolio performance duri
 
 1. Install necessary Python libraries:
    ```bash
-   pip install pandas numpy scikit-learn matplotlib yfinance
+   pip install pandas numpy scikit-learn matplotlib finance
+2. Run the main model:
+      ```bash
+   python macro_sensitivity_model.py
