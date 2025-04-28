@@ -11,7 +11,7 @@ It is part of a broader research effort to understand portfolio performance duri
 - **`macro_sensitivity_model.py`**  
   Python script to run a linear regression between stock returns and macroeconomic variables.
 
-- **`quantconnect_macro_data_2000_2025.csv`**  
+- **`FRED_macro_data_2000_2025.csv`**  
   Historical macroeconomic data (2000–2025) were used as input for the model.
 
 ---
