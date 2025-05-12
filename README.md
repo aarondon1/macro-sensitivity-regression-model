@@ -2,7 +2,7 @@
 
 This project models the relationship between stock returns and macroeconomic factors such as CPI, Fed Funds Rate, Oil, Unemployment, and VIX.
 
-It is part of a broader research effort to understand portfolio performance during volatile periods like the U.S.-China Trade War.
+It is part of a broader research effort to understand portfolio performance during volatile periods such as the current trade war and tariffs.
 
 ---
 
